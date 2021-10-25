@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-25T15:31:25 CEST" name="com.cpds.jenkinsMaven.JenkinsCalcTest" finished-at="2021-10-25T15:31:25 CEST" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2021-10-25T15:31:25 CEST" name="Command line test" finished-at="2021-10-25T15:31:25 CEST" duration-ms="36">
+      <class name="com.cpds.jenkinsMaven.JenkinsCalcTest">
+        <test-method signature="testAdd()[pri:0, instance:com.cpds.jenkinsMaven.JenkinsCalcTest@243c4f91]" started-at="2021-10-25T15:31:25 CEST" name="testAdd" finished-at="2021-10-25T15:31:25 CEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testSub()[pri:0, instance:com.cpds.jenkinsMaven.JenkinsCalcTest@243c4f91]" started-at="2021-10-25T15:31:25 CEST" name="testSub" finished-at="2021-10-25T15:31:25 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+      </class> <!-- com.cpds.jenkinsMaven.JenkinsCalcTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.cpds.jenkinsMaven.JenkinsCalcTest -->
+</testng-results>
