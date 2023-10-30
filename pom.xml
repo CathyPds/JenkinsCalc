@@ -5,8 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
-<maven.compiler.source>3.9.5</maven.compiler.source>
-<maven.compiler.target>3.9.5</maven.compiler.target>
+<maven.compiler.source>3.11.0</maven.compiler.source>
+<maven.compiler.target>3.11.0</maven.compiler.target>
 </properties>
 
 <dependencies>  
